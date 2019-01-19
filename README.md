@@ -1,6 +1,6 @@
-# viens_dindin
+# Version Mobile d'un site internet
 
-Une plateforme de vidéo à la demande 100% Ivoirienne
+
 
 ## Getting Started
 
